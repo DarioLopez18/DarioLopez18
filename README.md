@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **darioangellopez38@gmail.com**;
 
-  # Academic studies :books:
+# Academic studies :books:
   
 
 
