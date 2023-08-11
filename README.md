@@ -25,4 +25,4 @@ Here are some ideas to get you started:
   <div class="header" align="right">
 </div>
 
-###Academy Studies:books:
+### Academic studies :books:
