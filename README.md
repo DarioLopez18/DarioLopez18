@@ -1,6 +1,6 @@
 # Hi i'm Dario Lopez👋
 
-### An advanced Systems Engineering student
+### An advanced engineering student with a passion for programming and hardware
 
 <p align="rigth">
     <img
