@@ -1,4 +1,4 @@
-### Hi i'm Dario Lopez👋
+# Hi i'm Dario Lopez👋
 ___
 
 Here are some ideas to get you started:
