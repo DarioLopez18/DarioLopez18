@@ -22,4 +22,6 @@ Here are some ideas to get you started:
     width="300px"
     height="300px"
   />
+  <br>
 </div>
+
