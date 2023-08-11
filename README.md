@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about **anything, I am happy to help**;
 
 - 📫 How to reach me: **darioangellopez38@gmail.com**;
+
+  # Academic studies :books:
   
 
 
