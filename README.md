@@ -10,6 +10,8 @@
 />
 </p>
 
+<h3 align="left">Talking about Personal Stuff:</h3>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
