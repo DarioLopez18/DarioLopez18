@@ -17,6 +17,7 @@ Here are some ideas to get you started:
     alt="fullstackdeveloper"
     width="300px"
     height="300px"
+    align="right"
 />
 </p>
 
