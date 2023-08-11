@@ -27,6 +27,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **darioangellopez38@gmail.com**;
 
 # Academic studies :books:
+
+* Fourth year of Systems Engineering;
+  
+* CoderHouse backend-ecommerce development course;
+  
+* Autodidact;
+  
+* Front end development on udemy;
+  
+* Pc repair course on udemy;
+
+### Technologies :computer:
+
   
 
 
