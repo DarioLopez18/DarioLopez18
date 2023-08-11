@@ -15,10 +15,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div class="header" align="center" widht="100px" heigth="100px">
-  <img
-    src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e47et0hgc27le4nfod5nyxlzd46mmyumfc2h1ma5h2s&ep=v1_gifs_search&rid=giphy.gif&ct=g"
-    alt="fullstackdeveloper"
-  />
+<div style="width: 100%; height: 0; padding-bottom: 100%; position: relative">
+  <iframe
+    src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u"
+    width="100%"
+    height="100%"
+    style="position: absolute"
+    frameborder="0"
+    class="giphy-embed"
+    allowfullscreen
+  ></iframe>
 </div>
+<p>
+  <a href="https://giphy.com/gifs/computador-gu-tecnology-bGgsc5mWoryfgKBx1u"
+    >via GIPHY</a
+  >
+</p>
+
 
