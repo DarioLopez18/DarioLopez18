@@ -38,6 +38,14 @@ Here are some ideas to get you started:
   
 * Pc repair course on udemy;
 
+#Stats 
+<a href="https://github.com/DarioLopez18/github-readme-stats">
+  <img height=175em align="center" src="https://github-readme-stats.vercel.app/api?username=DarioLopez18&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/DarioLopez18/convoychat">
+  <img height=175em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DarioLopez18&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
+</a>
+
 ### Technologies :computer:
 
 * ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
