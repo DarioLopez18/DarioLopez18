@@ -38,7 +38,7 @@ Here are some ideas to get you started:
   
 * Pc repair course on udemy;
 
-#Stats 
+# Stats 
 <a href="https://github.com/DarioLopez18/github-readme-stats">
   <img height=175em align="center" src="https://github-readme-stats.vercel.app/api?username=DarioLopez18&show_icons=true&theme=tokyonight" />
 </a>
