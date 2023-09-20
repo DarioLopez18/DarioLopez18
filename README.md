@@ -1,4 +1,4 @@
-# Hi i'm Dario Lopez👋
+# Hi     I'm Dario Lopez👋
 
 ### An advanced engineering student with a passion for programming and hardware
 
