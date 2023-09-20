@@ -38,6 +38,10 @@ Here are some ideas to get you started:
   
 * Pc repair course on udemy;
 
+# Curriculum Vitae
+
+* https://drive.google.com/file/d/1FE7sisbntxdYPPq1HlYBF_f2x1gHT3Xw/view?usp=sharing
+
 # Stats 
 <a href="https://github.com/DarioLopez18/convoychat" align="center">
   <img height=175em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DarioLopez18&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
