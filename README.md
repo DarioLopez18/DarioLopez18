@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 # Academic studies :books:
 
-* Fourth year of Systems Engineering;
+* Three year of Systems Engineering;
   
 * CoderHouse backend-ecommerce development course;
   
