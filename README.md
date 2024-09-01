@@ -31,16 +31,16 @@ Here are some ideas to get you started:
 * Four year of Systems Engineering;
   
 * CoderHouse backend-ecommerce development course;
+
+* CoderHouse react js development course;
   
 * Autodidact;
   
 * Front end development on udemy;
-  
-* Pc repair course on udemy;
 
 # Curriculum Vitae
 
-* https://drive.google.com/file/d/119wPRdT_AQUjnv1NEaHHD93Us0nDd_Zz/view?usp=sharing
+* https://drive.google.com/file/d/1O2oiUz6yxMcNUMwP4zfI-M8-MoDNBZvG/view?usp=sharing
 
 # Stats 
 <a href="https://github.com/DarioLopez18/convoychat" align="center">
@@ -67,5 +67,9 @@ Here are some ideas to get you started:
 * ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 * ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 * ![Reat JS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+- ![sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
+- ![postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+- ![redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+- ![aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 <p align="right">(<a href="#top">Volver Arriba</a>)</p>
