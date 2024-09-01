@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 # Curriculum Vitae
 
-* https://drive.google.com/file/d/1O2oiUz6yxMcNUMwP4zfI-M8-MoDNBZvG/view?usp=sharing
+* https://drive.google.com/drive/folders/1GKD8BNOdLoORQW-hRQGkFKZsH4_6HYBT?usp=sharing
 
 # Stats 
 <a href="https://github.com/DarioLopez18/convoychat" align="center">
