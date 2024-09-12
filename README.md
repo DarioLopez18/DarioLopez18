@@ -33,6 +33,17 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **darioangellopez38@gmail.com**;
 
+# Laboral experience :books:
+
+# Backend Engineer and Software Developer Junior - Kairox Lab (Actualidad)
+
+# Relevant projects
+
+* https://github.com/DarioLopez18/EntregaFinalLopez
+* https://github.com/DarioLopez18/EcommerceBackend2023CoderHouse
+* https://portfoliodariolopez.netlify.app/
+* https://frontendreactjscoder.netlify.app/
+
 # Academic studies :books:
 
 * Four year of Systems Engineering;
