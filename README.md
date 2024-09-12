@@ -7,11 +7,11 @@
    
    ![dario GitHub stats](https://github-readme-stats.vercel.app/api?username=DarioLopez18&show_icons=true&locale=es&theme=dark#gh-dark-mode-only)
    
-</div align="center">
+</div>
 
-<div>
+<div align="center">
 
-      <a href="https://github.com/DarioLopez18/convoychat" align="center">
+<a href="https://github.com/DarioLopez18/convoychat" align="center">
 <img height=175em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DarioLopez18&layout=compact&langs_count=8&card_width=320&theme=tokyonight" />
 </a>
 
