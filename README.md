@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 # Laboral experience :books:
 
-# Backend Engineer and Software Developer Junior - Kairox Lab (Actualidad)
+- Backend Engineer and Software Developer Junior - Kairox Lab (Junio 2024 - Actualidad)
 
 # Relevant projects
 
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
   
 * Front end development on udemy;
 
-# Curriculum Vitae
+# Curriculum Vitaee
 
 * https://drive.google.com/drive/folders/1GKD8BNOdLoORQW-hRQGkFKZsH4_6HYBT?usp=sharing
 
